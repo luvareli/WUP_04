@@ -55,8 +55,14 @@ labs(x = "DEGREE", y = "WORDSUM", title = "Fancy Box Plot")
 
 LT high school would not overlay with Junior College or Graduate, and somewhat is showing to have different schooling. adding to that Graduate does not overlay High School. For that reason it is also has a slim change of being different. In the end LT High school and Graduate are not just different from each other the have different schooling, with the likes of High School and Junior College.
 
-
 ### Numerical Descriptive Results
+
+```{r}
+favstats(WORDSUM~DEGREE,data=thedata)
+```
+
+The average score on the WORDSUM test for graduates was slightly over 10. there are differences between the average score for Graduate school and the minimal average for Junior College. Nevertheless providing the prove that the schooling is different from one another.
+
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
