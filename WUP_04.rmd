@@ -110,4 +110,7 @@ print(comparison)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+ The descriptive analysis indicated clear distinctions between the levels of schooling, with Graduate school showing the highest average score. The inferential analysis through ANOVA and post-hoc tests further confirmed the significant differences among the levels of schooling, particularly highlighting the disparities between LT High School, High School
+
+
 
